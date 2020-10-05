@@ -1,0 +1,13 @@
+body{
+    border: 10px solid gray;
+    background-color: white;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 5px;
+}
+
+main{
+    padding: 5px;
+}
