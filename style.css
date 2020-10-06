@@ -1,13 +1,17 @@
 body{
-    border: 10px solid gray;
+    border: 20px solid gray;
     background-color: white;
 }
 
 nav{
     background-color: lightgray;
-    padding: 5px;
+    padding: 10px;
 }
 
 main{
-    padding: 5px;
+    padding: 10px;
+}
+
+p{
+    color: sandybrown;
 }
